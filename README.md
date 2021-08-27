@@ -5,6 +5,7 @@ This commands is only for 8 Country FB Accounts cloning
 🔗 apt update
 
 🔗 apt upgrade
+
 🔗 pkg install git
 
 🔗 pkg install python2
